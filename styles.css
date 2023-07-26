@@ -10,7 +10,6 @@
 }
 .main{
 	width:200px;
-	border-left-color:green;
+	border-left-color:green 5px;
     background-color:rgb(128,0,128);
-	border-left-width:5px;
-}
+	}
