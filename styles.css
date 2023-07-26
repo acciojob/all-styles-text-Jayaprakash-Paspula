@@ -2,8 +2,6 @@
 /* Your CSS Code here. */
 .heading{
 	background-color:purple;
-
-	border-left-width:5px;
 	padding:10px;
 	color:white;
 	font-size:20px;
@@ -14,4 +12,5 @@
 	width:200px;
 	border-left-color:green;
     background-color:rgb(128,0,128);
+	border-left-width:5px;
 }
