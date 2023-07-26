@@ -12,5 +12,6 @@
 }
 .main{
 	width:200px;
-		border-left-color:green;
+	border-left-color:green;
+    background-color:rgb(128,0,128);
 }
